@@ -11,6 +11,8 @@ This is a task definition for the "Tasker for Android" app that will display a p
 - show price of Monero and the ratio to Ethereum/Bitcoin price.
 
   ![](img/screen001.jpg?raw=true "Screen Print")
+  
+  **Note:** It works only with supportxmr.com pool
 
 
 
