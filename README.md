@@ -10,7 +10,7 @@ This is a task definition for the "Tasker for Android" app that will display a p
 
 - show price of Monero and the ratio to Ethereum/Bitcoin price.
 
-  ![](XMR_TASKER/img/screen001.jpg?raw=true "Screen Print")
+  ![](img/screen001.jpg?raw=true "Screen Print")
 
 
 
