@@ -7,7 +7,10 @@
 This is a task definition for the "Tasker for Android" app that will display a popup with the following two things:
 
 - supportxmr mining stats such as your current hashrate, pool balance, and network hashrate.
+
 - show price of Monero and the ratio to Ethereum/Bitcoin price.
+
+  ![https://raw.githubusercontent.com/100kilograms/XMR_TASKER/master/img/screen001.png]()
 
 ## Installation
 
