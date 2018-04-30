@@ -1,13 +1,13 @@
 #  XMR_TASKER
 
-*Get  supportxmr mining pools stats along with Monero exchange rate and more...*
+*Get supportxmr mining pools stats along with Monero exchange rate and more...*
 
 ## Description
 
-This is a task definition for the "Tasker for Android" app that will do two things:
+This is a task definition for the "Tasker for Android" app that will display a popup with the following two things:
 
-- check supportxmr minins stats such as your current hashrate, pool balance, and network hashrate.
-- show price of Monero and the ration to Ethereum/Bitcoin price
+- supportxmr mining stats such as your current hashrate, pool balance, and network hashrate.
+- show price of Monero and the ratio to Ethereum/Bitcoin price.
 
 ## Installation
 
