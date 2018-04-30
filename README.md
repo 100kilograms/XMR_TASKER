@@ -11,7 +11,7 @@ This is a task definition for the "Tasker for Android" app that will do two thin
 
 ## Installation
 
-1. Download the XMR.tsk.xml from this repository.
+1. Download src/XMR.tsk.xml from this repository.
 2. Edit your copy of XMR.tsk.xml and on line 11 replace the string **your_address_here**  with the Monero address you use in supportxmr pool.
 3. Copy the eddited "XMR.tsk.xml" file  to your phone sdcard\Tasker\tasks
 4. Open "Tasker",  go to "TASKS", long tap on "TASKS" tab, select Import, import the "XMR" task.
